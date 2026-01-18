@@ -3,6 +3,7 @@ langchain-community
 langchain-groq
 langchain-huggingface
 langchain-classic
+sentence-transformers
 chromadb
 bs4
 pysqlite3-binary
