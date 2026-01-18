@@ -1,0 +1,8 @@
+streamlit
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-classic
+chromadb
+bs4
+pysqlite3-binary
